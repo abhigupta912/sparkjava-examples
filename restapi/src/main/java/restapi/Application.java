@@ -1,6 +1,8 @@
-import controller.TodoController;
-import repository.TodoRepository;
-import service.TodoService;
+package restapi;
+
+import restapi.controller.TodoController;
+import restapi.repository.TodoRepository;
+import restapi.service.TodoService;
 
 import static spark.Spark.port;
 

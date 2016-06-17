@@ -1,4 +1,4 @@
-package model;
+package restapi.model;
 
 import java.util.UUID;
 

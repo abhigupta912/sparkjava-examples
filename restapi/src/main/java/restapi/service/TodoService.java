@@ -1,7 +1,7 @@
-package service;
+package restapi.service;
 
-import model.Todo;
-import repository.TodoRepository;
+import restapi.model.Todo;
+import restapi.repository.TodoRepository;
 
 import java.util.List;
 import java.util.Optional;

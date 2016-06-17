@@ -1,6 +1,6 @@
-package repository;
+package restapi.repository;
 
-import model.Todo;
+import restapi.model.Todo;
 
 import java.util.HashSet;
 import java.util.List;
